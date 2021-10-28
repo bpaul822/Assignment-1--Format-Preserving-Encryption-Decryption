@@ -4,7 +4,7 @@ bibin.paul.c@gmail.com
 
 Procedure for running on windows: 
 1. Use the .exe in gitfolder
-2. or compile using a IDE such as codeblocks
+2. or compile using a IDE such as CodeBlocks
 
 
 Procedure for running on Linux: 
