@@ -1,6 +1,5 @@
 Bibin Paul 
-EE19M508
-bibin.paul.c@gmail.com
+
 
 Procedure for running on windows: 
 1. Use the .exe in gitfolder
